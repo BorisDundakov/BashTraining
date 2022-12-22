@@ -1,0 +1,3 @@
+this content here
+will be stored in a new txt file
+and i will write here until I press ctrl+D

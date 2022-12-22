@@ -1,5 +1,5 @@
 #1. While loop
-# while number is less than 1, print the result and increment it by 1z
+# while number is less than 10, print the result and increment it by 1
 
 number=$1
 while [ $number -le 10 ]

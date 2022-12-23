@@ -4,7 +4,10 @@
 cat > redirectFile.txt
 
 # Line 7 to 9 is multiline comment
-:'
+
+
+
+: '
 will be appended to the already existing file
 cat >> redirectFile.txt
 ' 

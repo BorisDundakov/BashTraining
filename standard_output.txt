@@ -1,0 +1,19 @@
+total 64
+drwxrwxr-x 3 bobi bobi 4096 дек 23 13:00 .
+drwxrwxr-x 3 bobi bobi 4096 дек 22 15:01 ..
+-rwxrwxr-x 1 bobi bobi  315 дек 22 13:58 and_statements.sh
+-rwxrwxr-x 1 bobi bobi  356 дек 22 14:13 caseStatement.sh
+-rwxrwxr-x 1 bobi bobi  407 дек 22 13:40 conditional_statements.sh
+-rwxrwxr-x 1 bobi bobi   96 дек 23 12:15 continue.sh
+drwxrwxr-x 8 bobi bobi 4096 дек 22 15:09 .git
+-rwxrwxr-x 1 bobi bobi   39 дек 22 12:54 helloScript.sh
+-rwxrwxr-x 1 bobi bobi  644 дек 23 12:09 loops.sh
+-rwxrwxr-x 1 bobi bobi  313 дек 22 13:59 or_statements.sh
+-rwxrwxr-x 1 bobi bobi  193 дек 23 12:57 readFile.sh
+-rwxrwxr-x 1 bobi bobi  174 дек 23 12:36 readInput.sh
+-rw-rw-r-- 1 bobi bobi  191 дек 22 15:06 README.md
+-rw-rw-r-- 1 bobi bobi   94 дек 23 12:22 redirectFile.txt
+-rwxrwxr-x 1 bobi bobi  275 дек 23 12:23 redirectOutput.sh
+-rw-rw-r-- 1 bobi bobi    0 дек 23 13:00 standard_error.txt
+-rw-rw-r-- 1 bobi bobi    0 дек 23 13:00 standard_output.txt
+-rwxrwxr-x 1 bobi bobi  206 дек 23 13:00 STDOUT_STDERR.sh

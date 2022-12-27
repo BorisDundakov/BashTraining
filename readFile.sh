@@ -1,10 +1,2 @@
-# reading file line by line
-
-while read line
-do
-	echo $line
-done < "${1:-/dev/stdin}"
-
-# ${1} --> input
-# /dev/stdin --> stdin path for input
-# this program accepts input (file to read from)  
+# the command below will display the conent of 'README.md' file
+cat README.md

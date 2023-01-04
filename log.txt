@@ -1,0 +1,1 @@
+Transfer text to log.txt
